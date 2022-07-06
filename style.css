@@ -79,17 +79,18 @@
 .navbar .fa{
     display: block;
     margin: 10px;
-    height: 20px;
+    height: 50px;
     margin-left: 25px;
     right: 0;
     cursor: pointer;
 }
+
 .nav-links{
     position: absolute;
     height: 100vh;
     right: -70%;
     background-color: rgb(106, 122, 122) ;
-    width: 190px;
+    width: 200px;
     top: 0;
     transition: 0.5s;
     z-index: 10;
