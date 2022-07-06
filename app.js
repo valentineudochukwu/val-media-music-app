@@ -17,5 +17,5 @@ function showMenu(){
     navLinks.style.right = "0"
 }
 function hideMenu(){
-    navLinks.style.right = "-165px"
+    navLinks.style.right = "-190px"
 }
