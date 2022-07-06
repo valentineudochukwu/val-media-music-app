@@ -10,3 +10,12 @@ icon.onclick = function(){
         icon.src = "assets/play.png"
     }
 }
+
+let navLinks = document.getElementById("navLinks")
+
+function showMenu(){
+    navLinks.style.right = "0"
+}
+function hideMenu(){
+    navLinks.style.right = "-165px"
+}
